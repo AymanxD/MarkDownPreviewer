@@ -1,24 +1,24 @@
 .App {
   text-align: center;
+  font-size: 2vh;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+.MarkUpandDown{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  font-size: 2vh;
 }
 
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
+.input{
+  font-size: 2.5vh;
+  padding:20px;
+  text-align: left;
+  height: 80%;
+  width: auto;
 }
 
-.App-intro {
-  font-size: large;
-}
-
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+.Preview{
+  text-align: left;
+  padding:20px;
 }
