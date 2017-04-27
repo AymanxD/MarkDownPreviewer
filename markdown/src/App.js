@@ -42,7 +42,7 @@ Spain.
 
  *[Herman Fassett](https://freecodecamp.com/hermanfassett)*`
     }
-  }; 
+  };
 
 //State is changed every time the user types in the textarea due to this function
   storeMarkdown(newMarkup){
